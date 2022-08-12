@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  backend:
+    container_name: logic
+    build: ./chanel_service_backend
+    command: python app.py
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+    env_file:
+      - ./chanel_service_backend/.env.dev
+  db:
+    container_name: postgres
+    image: postgres:14
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "chanel_service_1234"
+      POSTGRES_DB: "chanel_service"
+    volumes:
+      - postgres_volume:/var/lib/postgresql/data/
+    ports:
+      - 5432:5432
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4:latest
+    depends_on:
+      - db
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "user@user.com"
+      PGADMIN_DEFAULT_PASSWORD: "chanel_service_1234"
+    ports:
+      - 5050:80
+    restart: unless-stopped
+volumes:
+  postgres_volume:

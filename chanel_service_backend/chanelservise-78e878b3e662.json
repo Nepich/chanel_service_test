@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chanelservise",
+  "private_key_id": "78e878b3e662ab9b1c2a9fdc59f74bbb6399c6c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCffeYUsP1ZK/Em\nIWie/AXTcI5C32OdKslFNPTXUL25tcfdd96scm8lou/NjKrtSUfeTBvSrw4RcHBT\n5yRcvhbTZvItlpeSrBclSZ73gt8LrPQOMurb+tSNE3PkPdrE1Bo2Y1sAy5VsHTz8\n/umGWYKt1NBnRAselJpZAznn2/XFqacpn7CrPg8W12kG9CYtVzFnmO9cQF9Axc4Z\nff7BKz6qBHzIUy0sGn3xoWXOaXM0WaZg3fCOr1xj5JESxtuQY3HPO/bICliBHcx6\nokcLM6HYncOe/+KPKUVZ/xQpsZasazModVD/PVkMEpcDhA0ZHqICboVdul/tYRnq\nJOM4+OMxAgMBAAECggEAOR1PwIclIsK+p8X8/joIKBC9kSsINCc3TmZJa7XJS3DS\ncvfTMPQF43d24qgGKdU9PFkK+aagphQa1aEHf4K/D9Nk1HiCLQ8ddsfneoFOOJMm\nDtOjEUXAygh2Tvzrk+LUxDdORnmhN8c8qOjsXaU+S9vTCbfvN3NF1qx2FxbI65Bl\nwAsWqSWv4zM7ogXaqr4U31tGbrSqRxFLP1TPANM8fzjDmJBzl71MkOcv7WwLry1o\nLtOwW7pK95ClYakTFVJmOco01fckKSBrk9aMlXtfQUXsnbQoCR+t1OV+W+ehkjbp\nVMbpJwUb167wdyVsQwSAoZ12bUwdIvi35MjOXM7J5QKBgQDOc+xgW/SqpNP2r8Pp\nFJ937FUIJLBoIGYc3LTxs9KaPmL+czhcnnFuya2S012G2nL+Ic0Ylgx1yvLoej3G\nyxXgLeTYeK59vXPsoB18GaeeRussy6hxoL7Lnt49F9Zts5MIjhuST8VQ16Ovk32T\nx7MWw5/7dMq7vAtmG8fLx7CI8wKBgQDFxMbt9ecWyuEyg9n1r60jFooC4USfuTix\nWcGkC3ThLEvNW3xD3Byorx3BoVmvbXJ43AL3dUZneiIRovguleyczxKnJijWIB/Z\nBblU/rPUvrO8V51SF2Drq3MujvtgigOH299QbZToM/dwHS4hho45bFBgUf8BiuFT\niZeI+i0sSwKBgD9ujqnslvf3PMkGqALtOzH1gwrFew4DJlyn01CQF50cnf3gGOkc\nJW4MuS/rkUjlxX8fk4yCTcHDYW7cYC68JzSB5VY9fh9UHlINwAFpQH74+zkAOfjv\nkq+tWEsdD90U15BBWWdS6yUznC9N+b92FChiYr033TJhTH9K+dA6wprRAoGANfJg\nZUbfm4sJ9PKcgPVD4D9ktDZotr0apt4aATqSzl176++ZrRUcyDLEhi4SPdU4FZnG\nQWQ/KTjalD8FPgftfDTMHMY++3HV3ig+jt3Phifi9Wxc4Ki56m9hQwEDtyjOn7+t\nYc4SgWizhWSgUcrXfvh50FxtmCkfH993c4jyy5MCgYBtvQytFskICTAbepmNIZLd\nnVnDdSqgBupMHYo2Rv4yeChl8aYxQ3QjHRjxyhhKotAVJA3QcyK89MVjIz1mKwsQ\n7MKIGFqgwxoM1AbKKe8JRj4mRDdIuTVHDKoXXNjssmCpjc31QKrhFCCc030FOKyF\nAUPHktUpP7jFzMOkgg6MBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chanelservice@chanelservise.iam.gserviceaccount.com",
+  "client_id": "118063933816042924974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chanelservice%40chanelservise.iam.gserviceaccount.com"
+}
